@@ -73,7 +73,7 @@ body{
 }
 
 .footer{
-    position: absolute;
+    position: relative;
     bottom: -30rem;
 }
 
@@ -96,6 +96,7 @@ body{
     .hero > *.s{
         top: 8rem;
     }
+   
     
 }
 
@@ -123,5 +124,6 @@ body{
     .hero > *.s{
         top: 0rem;
     }
+   
     
 }
